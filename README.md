@@ -1,2 +1,2 @@
 # Shell Script
-Marmara University Operation Systems Courses
+Marmara University Computer Science Operation Systems Course
